@@ -1,2 +1,0 @@
-# paymentcipa
-paymentcipa
